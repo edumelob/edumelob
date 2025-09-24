@@ -53,7 +53,7 @@
 ---
 
 ## 📫 Como me encontrar  
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINK)  
+- [LinkedIn](https://www.linkedin.com/in/eduardo-melo-barbosa)  
 - [GitHub](https://github.com/edumelob)  
 
 ---
