@@ -27,7 +27,7 @@
 ## 📌 Projetos em Destaque  
 - [🔑 Gerador de Senhas](https://github.com/edumelob/gerador_de_senha) – Aplicação em Python para criar senhas seguras.  
 - [📊 Análise de Vendas](#) – Projeto de manipulação e análise de dados com Python e Excel.  
-- [⚡ API Simples com FastAPI](#) – Exemplo de API REST em Python.  
+- [Sistema dee Controle de Estoque](https://github.com/edumelob/Sistema_Controle_Estoque_testepratico) - Projeto Fullstack para empresa Autoflex .  
 
 ---
 
