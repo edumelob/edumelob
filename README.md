@@ -25,7 +25,7 @@
 ---
 
 ## 📌 Projetos em Destaque  
-- [ Gerador de Senhas](https://github.com/edumelob/gerador_de_senha) – Aplicação em Python para criar senhas seguras.  
+- [ Jogo Super Mario ](https://github.com/edumelob/Jogo_Super_Mario) – Treina um agente de IA para jogar Super Mario Bros.  
 - [ Análise de Vendas](https://github.com/edumelob/Analisador_de_Vendas_CSV) – Projeto de manipulação e análise de dados com Python e Excel.  
 - [Sistema de Controle de Estoque](https://github.com/edumelob/Sistema_Controle_Estoque_testepratico) - Projeto Fullstack para empresa Autoflex .  
 
